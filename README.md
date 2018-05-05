@@ -8,7 +8,11 @@ You first need to install
 * [RapidJSON](https://github.com/Tencent/rapidjson)
 
 ```
-curl https://www.tgmember.com/run.sh | sudo bash -e
+git clone --recursive https://github.com/tgMember/tdlua.git
+
+cd tdlua
+
+sudo ./compile.sh
 ```
 *Since i didn't wrote an actual installation script you'll need to manually copy the file tdlua.so into the appropriate directory*
 ## Usage
