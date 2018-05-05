@@ -1,3 +1,6 @@
 [submodule "td"]
 	path = td
 	url = https://github.com/tdlib/td
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Tencent/rapidjson
