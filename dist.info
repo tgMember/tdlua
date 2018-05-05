@@ -1,0 +1,7 @@
+name = "tdlua"
+version = "0.1"
+desc = "A basic interface between tdlib and lua"
+author = "Sajjad Taheri"
+maintainer = "Sajjad Taheri"
+license = "GPLv3"
+url = "https://github.com/tgMember/tdlua"
